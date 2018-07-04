@@ -1,0 +1,15 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 1rem;
+
+}
+.Z1 {
+    background-color: black;
+    color: white;
+}
+.footpad {
+    padding-top: 10rem;
+}
